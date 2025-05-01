@@ -109,7 +109,7 @@ export default function CallToAction() {
                 <Button
                   asChild
                   variant="outline"
-                  className="border-white text-white hover:bg-white hover:text-gray-900"
+                  className="border-white text-white hover:bg-white text-gray-900"
                 >
                   <Link href="/request-blood">Request Blood</Link>
                 </Button>
