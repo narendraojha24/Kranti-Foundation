@@ -17,10 +17,23 @@ export default function AboutPage() {
             When you donate blood, you're giving someone another chance at life. One donation can save up to three
             lives. The need for blood is constant, but the supply isn't.
           </p>
+          <p className="text-gray-700 mb-4">
+          Every 2 seconds, someone in the world needs blood — due to accidents, surgeries, childbirth complications, cancer treatments, or chronic illnesses.
+
+One unit of donated blood can save up to three lives.
+          </p>
+          <p className="text-gray-700 mb-4">
+          Regular donors may benefit from reduced risk of heart disease and improved iron regulation.
+
+It offers a free mini health check-up — your blood pressure, hemoglobin, pulse, and more are tested.
+          </p>
+          <p className="text-gray-700 mb-4">
+          Blood donation promotes community spirit, empathy, and social responsibility.Most donors adopt better health practices to stay fit for donation.
+          </p>
         </div>
         <div className="flex justify-center items-center">
           <Image
-            src="/placeholder.svg?height=300&width=400"
+            src="/blood2.jpeg"
             alt="Blood donation"
             width={400}
             height={300}
