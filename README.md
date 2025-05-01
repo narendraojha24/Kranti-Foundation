@@ -45,7 +45,7 @@ It is a modern, responsive, and user-friendly frontend web application designed 
 ### 📦 Installation
 
 ```bash
-git clone https://github.com/your-username/bloodcare.git
+https://github.com/narendraojha24/Kranti-Foundation.git
 cd bloodcare
 npm install
 npm run dev
